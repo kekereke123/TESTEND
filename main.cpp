@@ -1,13 +1,6 @@
 #include <iostream>
 
 int function_1(int a, int b) {
-<<<<<<< HEAD
-	int d = a * b + a + b;
-	for (int i = 0; i < d; i++) {
-		std::cout << a << " " << b << endl;
-	}
-	return d;
-=======
 	int c = a + b;
 	int a = 10;
 	while (true) {
@@ -17,7 +10,6 @@ int function_1(int a, int b) {
 		}
 	}
 	return a;
->>>>>>> Tytul
 }
 
 int function_2(int a, int b, int c) {
