@@ -9,7 +9,12 @@ int function_1(int a, int b) {
 			break;
 		}
 	}
+	int najnowsze_ficzery = 10;
 	return a;
+}
+
+void super_funkcja() {
+	int super = 10;
 }
 
 int function_2(int a, int b, int c) {
