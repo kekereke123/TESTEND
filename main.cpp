@@ -7,6 +7,7 @@ int function_1(int a, int b) {
 }
 
 int function_2(int a, int b, int c) {
+	int laptop_edit = 20;
 	for (int i = 0; i < c; i++) {
 		std::cout << a << " " << b << endl;
 	}
