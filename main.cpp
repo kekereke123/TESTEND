@@ -18,6 +18,9 @@ void super_funkcja() {
 	int gege = 1;
 }
 
+void cos(){
+}
+
 int function_2(int a, int b, int c) {
 	int laptop_edit = 20;
 	for (int i = 0; i < c; i++) {
