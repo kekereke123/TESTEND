@@ -15,6 +15,7 @@ int function_1(int a, int b) {
 
 void super_funkcja() {
 	int super = 10;
+	int gege = 1;
 }
 
 int function_2(int a, int b, int c) {
