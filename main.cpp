@@ -1,9 +1,11 @@
 #include <iostream>
 
 int function_1(int a, int b) {
-	int c = a + b;
-	int a = 10;
-	return c;
+	int d = a * b + a + b;
+	for (int i = 0; i < d; i++) {
+		std::cout << a << " " << b << endl;
+	}
+	return d;
 }
 
 int function_2(int a, int b, int c) {
