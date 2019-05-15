@@ -2,6 +2,7 @@
 
 int function_1(int a, int b) {
 	int c = a + b;
+	int a = 10;
 	return c;
 }
 
