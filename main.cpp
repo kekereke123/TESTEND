@@ -10,6 +10,7 @@ int function_2(int a, int b, int c) {
 	for (int i = 0; i < c; i++) {
 		std::cout << a << " " << b << endl;
 	}
+	int komputer_edit = 10;
 	return a + b;
 }
 
