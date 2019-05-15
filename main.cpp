@@ -12,6 +12,10 @@ int function_2(int a, int b, int c) {
 	return a + b;
 }
 
+int function_3() {
+	return 10;
+}
+
 int main() {
 	int a = function_1(1, 2);
 	int c = function_2(5, 6, 7);
